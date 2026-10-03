@@ -1,4 +1,4 @@
-Calculator (First Project 10/3)
+Calculator (First Project 10/3/26)
 -----------
 A simple calculator webpage I built while learning web development.
 
